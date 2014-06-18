@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Better Completion",
+		"Bootstrap 3 Snippets",
+		"Boron Color Scheme",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Git",
+		"GitGutter",
+		"HTML Page Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Soda",
+		"View In Browser"
+	]
+}
