@@ -29,3 +29,6 @@ Sublime Text 3 User Settings, configuration and packages
 		]
 	}
 
+
+####Boostrap 3 snippets info:
+	https://github.com/JasonMortonNZ/bs3-sublime-plugin
