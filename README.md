@@ -16,7 +16,8 @@ Sublime Text 3 User Settings, configuration and packages
 
 	{
 		"installed_packages":
-		[
+		[	
+			"Alignment",
 			"Bootstrap 3 Snippets",
 			"BracketHighlighter",
 			"Git",
