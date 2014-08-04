@@ -25,7 +25,7 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
-	"tab_size": 5,
+	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translateTabsToSpaces": false,
 	"trim_trailing_white_space_on_save": true,
