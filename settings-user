@@ -1,18 +1,22 @@
 {
-
+	"auto_close_tags": true,
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_triggers":
 	[
 		{
-			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
-			"selector": "text, source, meta, string, punctuation, constant"
+			"characters": "<",
+			"selector": "text.html"
 		}
 	],
-	"auto_close_tags": true,
+	"auto_complete_with_fields": false,
+	"auto_indent": true,
+	"bold_folder_labels": true,
 	"default_encoding": "UTF-8",
+	"detect_indentation": false,
 	"draw_white_space": "all",
+	"enable_hexadecimal_encoding": true,
 	"find_selected_text": true,
 	"font_face": "Inconsolata",
 	"font_size": 16,
@@ -22,7 +26,16 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"index_files": true,
+	"preview_on_click": false,
 	"scroll_past_end": true,
+	"show_line_endings": true,
+	"smart_indent": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
@@ -30,20 +43,5 @@
 	"translateTabsToSpaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": true,
-	// Calculates indentation automatically when pressing enter
-	"auto_indent": true,
-
-	// Makes auto indent a little smarter, e.g., by indenting the next line
-	// after an if statement in C. Requires auto_indent to be enabled.
-	"smart_indent": true,
-	// Adds whitespace up to the first open bracket when indenting. Requires
-	// auto_indent to be enabled.
-	"indent_to_bracket": false,
-	// Show folders in the side bar in bold
-	"bold_folder_labels": true,
-	// Display line endings in the status bar
-	"show_line_endings": true,
-	"preview_on_click": true,
+	"word_wrap": true
 }
-
