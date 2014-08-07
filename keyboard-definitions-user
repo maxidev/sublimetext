@@ -12,7 +12,7 @@
 	{ "keys": ["ctrl+f4"], "command": "close_file" },
 	{ "keys": ["ctrl+w"], "command": "close" },
 
-	{ "keys": ["ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
+	{ "keys": ["f12"], "command": "toggle_side_bar" },
 	{ "keys": ["f11"], "command": "toggle_full_screen" },
 	{ "keys": ["shift+f11"], "command": "toggle_distraction_free" },
 
@@ -703,5 +703,19 @@
 			{ "key": "preceding_text", "operator": "regex_match", "operand": ".*<$", "match_all": true },
 			{ "key": "setting.auto_close_tags" }
 		]
+	},
+
+	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+	{ "keys": ["shift+super+alt+n"], "command": "advanced_new_file_new", "args": {"is_python": true}},
+	{
+		"keys": ["tab"],
+		"command": "insert",
+		"args": {"characters": "\t"},
+		"context": [{
+			"key": "setting.anf_panel"
+		}]
 	}
+
+
+
 ]
