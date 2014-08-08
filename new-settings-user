@@ -36,4 +36,5 @@
     	"trim_trailing_white_space_on_save": true,
     	"word_wrap": "auto",
     	"translate_tabs_to_spaces": true,
+    	"detect_indentation": false,
   }
