@@ -2,4 +2,6 @@
 	{ "keys": ["ctrl+alt+c"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+o"], "command": "goto_definition" },
 	{ "keys": ["f12"], "command": "toggle_side_bar" },
+	//AdvancedNewFile keymap
+	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
 ]
