@@ -15,23 +15,22 @@ Sublime Text 3 User Settings, configuration and packages
 ####Packages to Install (Package list on: "Package Control.sublime-settings")
 
 	{
-		"installed_packages":
-		[
-			"AdvancedNewFile",
-			"Alignment",
-			"Bootstrap 3 Snippets",
-			"BracketHighlighter",
-			"ColorPicker",
-			"Git",
-			"GitGutter",
-			"HTML Snippets",
-			"JavaScript & NodeJS Snippets",
-			"Pretty JSON",
-			"SideBarEnhancements",
-			"Theme - Soda",
-			"View In Browser"
-		]
+	   "installed_packages":
+	   [
+	      "AdvancedNewFile",
+	      "Alignment",
+	      "Bootstrap 3 Snippets",
+	      "BracketHighlighter",
+	      "DocBlockr",
+	      "Git",
+	      "GitGutter",
+	      "JavaScript & NodeJS Snippets",
+	      "Pretty JSON",
+	      "SideBarEnhancements",
+	      "Theme - Soda"
+	   ]
 	}
+
 
 
 
