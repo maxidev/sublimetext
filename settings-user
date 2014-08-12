@@ -8,6 +8,7 @@
     	//Font Options
     	"font_face": "Inconsolata",
     	"font_size": 16,
+    	"preview_on_click": false,
     	//Soda Theme Settings
     	"theme": "Soda Dark 3.sublime-theme",
     	"soda_classic_tabs": true,
