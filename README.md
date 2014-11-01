@@ -22,6 +22,7 @@ Sublime Text 3 User Settings, configuration and packages
 	      "Bootstrap 3 Snippets",
 	      "BracketHighlighter",
 	      "DocBlockr",
+	      "pomodoro",
 	      "Git",
 	      "GitGutter",
 	      "JavaScript & NodeJS Snippets",
