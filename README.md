@@ -27,6 +27,7 @@ Sublime Text 3 User Settings, configuration and packages
 	      "GitGutter",
 	      "JavaScript & NodeJS Snippets",
 	      "Pretty JSON",
+	      "View in browser",
 	      "SideBarEnhancements",
 	      "Theme - Soda"
 	   ]
