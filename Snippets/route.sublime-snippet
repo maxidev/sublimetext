@@ -1,19 +1,4 @@
 <snippet>
-   <content><![CDATA[
-
-router.get('${1:}', function(req, res) {
-   ${2}
-});
-
-]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-   <tabTrigger>rget</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-   <scope>source.js</scope>
-</snippet>
-
-
-<snippet>
 <content><![CDATA[
 var express = require('express');
 var router = express.Router();
@@ -32,7 +17,3 @@ module.exports = router;
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.js</scope>
 </snippet>
-
---
-
-
