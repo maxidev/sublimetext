@@ -1,14 +1,14 @@
-"installed_packages":
-	[
-		"AdvancedNewFile",
-		"Alignment",
-		"BracketHighlighter",
-		"Git",
-		"GitGutter",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SideBarFolders",
-		"Theme - Soda",
-		"View In Browser"
-	]
+{
+	"AdvancedNewFile",
+	"Alignment",
+	"BracketHighlighter",
+	"Git",
+	"GitGutter",
+	"JavaScript & NodeJS Snippets",
+	"Package Control",
+	"PackageResourceViewer",
+	"Pretty JSON",
+	"SideBarEnhancements",
+	"Theme - Soda",
+	"View In Browser"
+}
