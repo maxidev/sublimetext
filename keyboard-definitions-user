@@ -2,10 +2,8 @@
 	{ "keys": ["ctrl+alt+c"], "command": "toggle_comment", "args": { "block": true } },
 	{ "keys": ["ctrl+shift+o"], "command": "goto_definition" },
 	{ "keys": ["f12"], "command": "toggle_side_bar" },
-   { "keys": ["f10"], "command": "toggle_menu" },
-	//AdvancedNewFile keymap
+    { "keys": ["f10"], "command": "toggle_menu" },
 	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
-   { "keys": ["alt+shift+p"], "command": "pomodoro", "args": {"workingMins": 25, "restingMins": 5} },
-   { "keys": ["ctrl+alt+v" ], "command": "view_in_browser", "args": { "browser": "chrome"}}
+    { "keys": ["ctrl+alt+v" ], "command": "view_in_browser", "args": { "browser": "chrome"}}
 ]
 
