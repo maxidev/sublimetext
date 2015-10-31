@@ -1,14 +1,25 @@
-{
+[
+	"AAAPackageDev",
 	"AdvancedNewFile",
 	"Alignment",
+	"AngularJS",
 	"BracketHighlighter",
+	"Colorsublime",
+	"DocBlockr",
 	"Git",
 	"GitGutter",
 	"JavaScript & NodeJS Snippets",
+	"JsFormat",
+	"Markdown Preview",
+	"Material Theme",
+	"Monokai Extended",
+	"One Dark Color Scheme",
 	"Package Control",
-	"PackageResourceViewer",
 	"Pretty JSON",
 	"SideBarEnhancements",
+	"SublimeLinter",
+	"SublimeLinter-jshint",
+	"Theme - Cyanide",
 	"Theme - Soda",
 	"View In Browser"
-}
+]
