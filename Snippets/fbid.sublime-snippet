@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+${1:}.findById({_id: ${2:}}, function(${3:}, ${4}) {
+  if(!${4}){
+    res.json({success: false, data: ${3:}});
+  }else{
+    res.json({success: true, data: ${4}});
+  }
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>fbid</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
