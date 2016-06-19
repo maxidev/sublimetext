@@ -6,5 +6,3 @@
    { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
    { "keys": ["ctrl+alt+v" ], "command": "view_in_browser", "args": { "browser": "chrome"}}
 ]
-
-

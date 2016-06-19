@@ -1,7 +1,8 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"auto_indent": true,
-	"caret_style": "phase",
+  "auto_complete_commit_on_tab": true,
+  "auto_indent": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/User/SublimeLinter/Monokai-Dev (SL).tmTheme",
   "default_encoding": "UTF-8",
   "detect_indentation": true,
   "draw_indent_guides": true,
@@ -26,6 +27,7 @@
     "draw_active"
   ],
   "indent_to_bracket": true,
+  "material_theme_accent_lime": true,
   "material_theme_compact_panel": true,
   "material_theme_compact_sidebar": true,
   "material_theme_contrast_mode": true,
@@ -39,10 +41,8 @@
   "show_line_endings": true,
   "smart_indent": true,
   "tab_size": 2,
-  "material_theme_accent_lime": true,
-  "color_scheme": "Packages/User/SublimeLinter/Monokai-Dev (SL).tmTheme",
   "theme": "Material-Theme-Darker.sublime-theme",
   "translate_tabs_to_spaces": true,
   "wide_caret": true,
-	"word_wrap": true
+  "word_wrap": true
 }
