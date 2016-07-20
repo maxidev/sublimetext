@@ -1,9 +1,8 @@
 <snippet>
    <content><![CDATA[
 router.post('${1:}', ${2:} function(req, res) {
-   ${3:}
-});
-
+  ${3:}
+});//${1:}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>rpost</tabTrigger>

@@ -3,8 +3,8 @@
 try {
   ${1:}
 }
-catch(error) {
-  ${2:}
+catch(ex) {
+  console.log(${2:}, ex.stack); 
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
